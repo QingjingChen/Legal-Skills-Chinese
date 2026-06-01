@@ -517,9 +517,6 @@ A减弱 → x减弱
 - [ ] 已制定验证方案和修正触发器
 - [ ] 已标注假设的可废止性
 
-<!--
 本技能由陈卿静（Qingjing Chen）主笔。如有任何修改意见，或对共同完善、建设本技能有任何建议，请联系邮箱：qingjing.chen@studio.unibo.it。
 
 This skill was primarily authored by Qingjing Chen. For any suggestions, revisions, or collaboration proposals to further improve this skill, please contact: qingjing.chen@studio.unibo.it.
--->
-
