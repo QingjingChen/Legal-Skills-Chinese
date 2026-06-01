@@ -130,3 +130,8 @@ C3: 甲可以向丙追偿
 
 ### 技能的边界与排障指南 (Troubleshooting & Constraints)
 有效性判断**仅取决于形式，不取决于内容**。即使大前提或小前提在事实上是假的，只要逻辑形式正确，推理依然必须被判定为“有效”。
+
+本技能由陈卿静（Qingjing Chen）主笔。如有任何修改意见，或对共同完善、建设本技能有任何建议，请联系邮箱：qingjing.chen@studio.unibo.it。
+
+This skill was primarily authored by Qingjing Chen. For any suggestions, revisions, or collaboration proposals to further improve this skill, please contact: qingjing.chen@studio.unibo.it.
+
