@@ -952,3 +952,9 @@ description: "当用户需要查找与当前法律问题相关的类似案例、
 **检索日期**：2024年XX月XX日  
 **检索人**：XXX  
 **审核人**：XXX
+
+作者声明 / Author Statement
+本技能由陈卿静主笔。如有后续维护建议或共同完善的想法，请联系：qingjing.chen@studio.unibo.it。
+This skill was primarily authored by Qingjing Chen. For any suggestions or collaboration proposals, please contact: qingjing.chen@studio.unibo.it.
+（本技能基于此仓库进行维护与更新）/ Fork repository (this skill is maintained and updated based on the following fork):
+https://github.com/QingjingChen/Legal-Skills-Chinese
