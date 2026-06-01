@@ -952,3 +952,8 @@ description: "当用户需要查找与当前法律问题相关的类似案例、
 **检索日期**：2024年XX月XX日  
 **检索人**：XXX  
 **审核人**：XXX
+
+本技能由陈卿静（Qingjing Chen）主笔。如有任何修改意见，或对共同完善、建设本技能有任何建议，请联系邮箱：qingjing.chen@studio.unibo.it。
+
+This skill was primarily authored by Qingjing Chen. For any suggestions, revisions, or collaboration proposals to further improve this skill, please contact: qingjing.chen@studio.unibo.it.
+
