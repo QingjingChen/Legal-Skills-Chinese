@@ -205,3 +205,8 @@ description: "当需要从一个或多个具体案例、判决、事实模式中
 >
 > **结论**：被告不构成盗窃。
 
+作者声明 / Author Statement
+本技能由陈卿静主笔。如有后续维护建议或共同完善的想法，请联系：qingjing.chen@studio.unibo.it。
+This skill was primarily authored by Qingjing Chen. For any suggestions or collaboration proposals, please contact: qingjing.chen@studio.unibo.it.
+（本技能基于此仓库进行维护与更新）/ Fork repository (this skill is maintained and updated based on the following fork):
+https://github.com/QingjingChen/Legal-Skills-Chinese
