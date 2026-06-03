@@ -1109,3 +1109,7 @@ description: 生成标准化法律检索报告，适用于案例检索、法条�
 
 质量结论
 本次检索通过三轮迭代，查全率和查准率均达到良好水平，检索结果可支撑法律分析报告。
+
+本技能由陈卿静（Qingjing Chen）主笔。如有任何修改意见，或对共同完善、建设本技能有任何建议，请联系邮箱：qingjing.chen@studio.unibo.it。
+
+This skill was primarily authored by Qingjing Chen. For any suggestions, revisions, or collaboration proposals to further improve this skill, please contact: qingjing.chen@studio.unibo.it.
